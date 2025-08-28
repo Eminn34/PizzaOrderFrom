@@ -23,10 +23,10 @@ Modern React tabanlı pizza sipariş sistemi. Responsive tasarım, form validasy
 
 ```bash
 # Repository'yi klonla
-git clone https://github.com/kullaniciadi/pizza-siparis.git
+git clone https://github.com/kullaniciadi/PizzaOrderForm.git
 
 # Proje klasörüne git
-cd pizza-siparis
+cd pizzaSiparis
 
 # Bağımlılıkları yükle
 npm install
